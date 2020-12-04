@@ -1,4 +1,4 @@
-detection_date,domain,category,score
+#Firstseen,domain,category,score
 2019-01-08,yourultimatewebsitetolink.xyz,social engineering,1.0
 2019-01-08,yourultimatewebsitetolinks.xyz,social engineering,1.0
 2019-01-09,appupdatenow.site,social engineering,0.9998
